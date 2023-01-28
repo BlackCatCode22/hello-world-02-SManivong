@@ -16,22 +16,27 @@ using namespace std;
 int main()
 {
     cout << "Say Hello" << endl;
+    cout << "Hello everyone" << endl;
 
     string userInput;
 
     // Ask user for input, tell user to press enter
-    cout << "Please enter your name: ";
+    cout << "Please enter your name";
+    cout << "Southideth Manivong";
 
     // Get user input from the keyboard
     cin >> userInput;
+    cin >> "Hello world newb here";
 
     // print six lines using a for loop!
     for (int i=0; i<=6; i++)
     {
         cout << endl;
+        cout << i << endl;
     }
 
     cout << " Hello  " << userInput << " how are you today>?";
+    cin >> "Hello! " >> userInput >> "I am doing well today, how is everyone?";
 
 
 
