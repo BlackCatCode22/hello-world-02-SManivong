@@ -15,12 +15,14 @@ using namespace std;
 
 int main()
 {
-    cout << "Hi everyone!" << endl;
+    cout << "Say Hello" << endl;
+    cout << "Hello everyone" << endl;
 
     string userInput;
 
     // Ask user for input, tell user to press enter
-    cout << "Southideth Manivong: ";
+    cout << "Please enter your name";
+    cout << "Southideth Manivong";
 
     // Get user input from the keyboard
     cin >> userInput;
