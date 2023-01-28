@@ -31,7 +31,8 @@ int main()
     // print six lines using a for loop!
     for (int i=0; i<=6; i++)
     {
-        cout << i <<  endl;
+        cout <<endl;
+        cout << i << endl;
     }
 
     cout << " Hello  " << userInput << " how are you today>?";
