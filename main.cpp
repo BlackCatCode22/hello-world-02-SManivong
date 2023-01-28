@@ -31,7 +31,7 @@ int main()
     // print six lines using a for loop!
     for (int i=0; i<=6; i++)
     {
-        cout <<endl;
+        cout << endl;
         cout << i << endl;
     }
 
